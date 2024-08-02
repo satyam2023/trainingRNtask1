@@ -21,12 +21,6 @@ export const styles = StyleSheet.create<IStyle>({
     borderWidth: 1,
     backgroundColor: '#ED4D1D21',
     borderColor: '#ED4D1D66',
-    shadowOpacity: 0.4,
-    shadowOffset: {
-      width: 4,
-      height: 5,
-    },
-    shadowColor: '#ED0000FF',
     justifyContent: 'center',
     alignItems: 'flex-start',
   },
